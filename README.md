@@ -4,7 +4,7 @@ This project showcases an interactive Tableau dashboard analyzing **IPL (Indian 
 
 🔗 **[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/asvitha.vibeeshanan/viz/SeasonalInsightsandTossDecisionimpact/SeasonalInsights?publish=yes)**
 
----
+
 
 ## 📌 Dashboard Features
 
@@ -18,7 +18,7 @@ This project showcases an interactive Tableau dashboard analyzing **IPL (Indian 
   - 🟠 Orange Cap (Most Runs in a Season)
   - 🟣 Purple Cap (Most Wickets in a Season)
 
----
+
 
 ## 🔍 Key Insights
 
@@ -28,7 +28,7 @@ This project showcases an interactive Tableau dashboard analyzing **IPL (Indian 
 - Users can discover **seasonal trends** in player performance (e.g., top scorers and wicket-takers).
 - Helps uncover patterns across **multiple seasons**, aiding in performance reviews, commentary, or predictive analysis.
 
----
+
 
 ## 🛠 Tools & Technologies Used
 
